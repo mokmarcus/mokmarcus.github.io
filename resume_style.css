@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+
+body {
+	font-family: Arvo;
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+#home-btn {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	color: white;
+}
+
+#bio-btn {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	color: white;
+}
+
+div {
+	font-size: 15px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+a {
+	color: #01A9DB;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+h2 {
+	color: orange;
+}
+
+li {
+	margin: 10px;
+}
+
+#download-btn {
+	margin: 50px;
+	text-align: center;
+}
